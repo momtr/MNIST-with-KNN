@@ -22,3 +22,8 @@ Start a server and run `index.html`. <br>
 - press s for prediction
 - open the console and there you find the model's prediction
 - press c for deleting your drawing
+
+## Hyperparameters
+One hyperparameter is `k`, the number of control points.
+
+<img src="https://github.com/moritzmitterdorfer/MNIST-with-KNN/blob/master/ks.png" width="400">
